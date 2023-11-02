@@ -2,6 +2,8 @@ github.com/dmoralesgd/postgrest-go v0.1.5 h1:vRAAh83JTU7geU5iebWNk5R19h1xl6arTWv
 github.com/dmoralesgd/postgrest-go v0.1.5/go.mod h1:RGinB2OXsnGLcZMu5avS0U+b9npyZmk+ecK74UDi/xY=
 github.com/dmoralesgd/postgrest-go v0.1.6 h1:YFqClzuiWnSVO6q4d093MSZ5eNnTeMBDcDC2MB1Nn+8=
 github.com/dmoralesgd/postgrest-go v0.1.6/go.mod h1:RGinB2OXsnGLcZMu5avS0U+b9npyZmk+ecK74UDi/xY=
+github.com/dmoralesgd/postgrest-go v0.1.7 h1:LzSWDZ51XWn8ikgS16FV/1vkfQkiL2RhNmTqLZxsHvM=
+github.com/dmoralesgd/postgrest-go v0.1.7/go.mod h1:RGinB2OXsnGLcZMu5avS0U+b9npyZmk+ecK74UDi/xY=
 github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD/fhyJ8=
